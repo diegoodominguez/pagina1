@@ -2,13 +2,7 @@
 <head>
 <title>PAGINA 1</title>
 </head>
- <body bgcolor="FFCECB"> </body>
-<nav>
-	<a 
-		href="index.html">
-			INICIO
-	</a>
-</nav>
+
 <body>
 	<p>Diego Javier Domingue López</p>
 	<script type="text/javascript">	
